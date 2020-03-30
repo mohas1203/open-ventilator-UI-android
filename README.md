@@ -1,2 +1,2 @@
 # open-ventilator-UI-android
-An open source
+An open source project
